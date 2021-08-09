@@ -35,7 +35,7 @@
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 
-teKEYState_TypeDef KEY[4];
+teKEYState_TypeDef KEY[4];//按键变量
 
 uint8_t SWITCH;//开关
 uint8_t SPEED;//风速
